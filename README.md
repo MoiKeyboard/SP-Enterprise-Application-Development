@@ -26,6 +26,6 @@ Booking algorithm supports transit flights to reach end destination</br>
     <img src="https://i.imgur.com/FhT4OSp.png" />
     <img src="https://i.imgur.com/ODSQDSw.png" />
     <img src="https://i.imgur.com/c7kECFr.png" />
-    <img src="https://i.imgur.com/VCGxziv.png" />
     <img src="https://i.imgur.com/s11ZeK6.png" />
+    <img src="https://i.imgur.com/VCGxziv.png" />
 </p></br>
