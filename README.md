@@ -6,10 +6,10 @@ Airline booking web application hosted on local server (using Apache Tomcat, MyS
 </p></br>
 <b>Booking Le Flight</b>
 <p>
-    <img src="https://i.imgur.com/yNLVEoi.png" />
-</p></br>
-<b>Booking Le Flight</b>
-<p>
     <img src="https://i.imgur.com/yNLVEoi.png" /></br>
     <img src="https://i.imgur.com/dRhuZKM.png" />
 </p>
+<b>Payment (NO PAYMENT GATEWAY IMPLEMENTED)</b>
+<p>
+    <img src="https://i.imgur.com/HCdPkTJ.png" />
+</p></br>
