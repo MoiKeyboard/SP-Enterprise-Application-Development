@@ -1,4 +1,4 @@
-# Skylete Airlines-
+# Skylete Airlines - (Inspired by Triumph In The Skies （＾ω＾）)
 Airline booking web application hosted on local server (using Apache Tomcat, MySQl, JavaScript, JSP and Java Servlet) as a school project back in 2014,</br>
 <b>Le General booking Interface</b>
 <p>
@@ -12,4 +12,8 @@ Airline booking web application hosted on local server (using Apache Tomcat, MyS
 <b>Payment (NO PAYMENT GATEWAY IMPLEMENTED)</b>
 <p>
     <img src="https://i.imgur.com/HCdPkTJ.png" />
+</p></br>
+<b>Tickets</b>
+<p>
+    <img src="https://imgur.com/aSx4LNZ" />
 </p></br>
